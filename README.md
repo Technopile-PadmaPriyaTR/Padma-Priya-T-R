@@ -1,4 +1,4 @@
-![github image](![background](https://user-images.githubusercontent.com/85836583/179052036-e6ab691b-6f2d-47a2-ad14-3f31a8d58fd3.jpg))
+<img src="background.jpg"/>
 <h1 align="center">Hi 👋, I'm Padma Priya T R</h1>
 <h3 align="center">AI/ML Enthusiast || 5🌟 @HackerRank || GoogleCloudReady Facilitator || Google Analytics Certified || Neo4j Certified Professional</h3>
 
