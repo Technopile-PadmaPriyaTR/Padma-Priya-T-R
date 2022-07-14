@@ -1,4 +1,4 @@
-<img src="background.jpg"/>
+<img align="left" src="background.jpg"/>
 <h1 align="center">Hi 👋, I'm Padma Priya T R</h1>
 <h3 align="center">AI/ML Enthusiast || 5🌟 @HackerRank || GoogleCloudReady Facilitator || Google Analytics Certified || Neo4j Certified Professional</h3>
 
