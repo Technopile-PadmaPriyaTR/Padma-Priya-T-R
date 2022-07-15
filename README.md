@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Padma Priya T R</h1>
 <h3 align="center">AI/ML Enthusiast || 5🌟 @HackerRank || GoogleCloudReady Facilitator || Google Analytics Certified || Neo4j Certified Professional</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=technopile-padmapriyatr&label=Profile%20views&color=0e75b6&style=flat" alt="technopile-padmapriyatr" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=technopile-padmapriyatr&label=Profile%20views&color=0e75b6&style=flat" alt="technopile-padmapriyatr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=technopile-padmapriyatr" alt="technopile-padmapriyatr" /></a> </p>
 
